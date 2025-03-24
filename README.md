@@ -1,4 +1,4 @@
-# pas
+# RUBR
 
 !['se voce souber fazer uma logo legal para o rubr, sinta-se livre para contribuir no projeto! :)']()
 
